@@ -2,3 +2,22 @@
     padding-top: 160px;
     padding-bottom: 160px;
 }
+
+
+#gotop {
+    width: 50px;
+    height: 50px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 50%;
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+    text-align: center;
+    line-height: 40px;
+    display: none;
+}
+
+#gotop a {
+    color: #fff;
+}
